@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292829827518",
+    "firebase_url": "https://doc-related-project.firebaseio.com",
+    "project_id": "doc-related-project",
+    "storage_bucket": "doc-related-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292829827518:android:83951091efc4ee2879a9ef",
+        "android_client_info": {
+          "package_name": "com.doc.reader.all.pdf.files"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292829827518-fesgm9j0il7g4gu3g2g0i4lcvc4cr79u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHrXKfoHsiNcf8yfeE5ZtIhX93u2mAmRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292829827518-fesgm9j0il7g4gu3g2g0i4lcvc4cr79u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
